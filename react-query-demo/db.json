@@ -1,0 +1,76 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Rahul Pundir"
+        },
+        {
+            "id": 2,
+            "name": "Sunny Pundir"
+        },
+        {
+            "id": 3,
+            "name": "Pelu Pundir"
+        }
+    ],
+    "frineds": [
+        {
+            "id": 1,
+            "name": "Rahul Pundir"
+        },
+        {
+            "id": 2,
+            "name": "Sunny Pundir"
+        },
+        {
+            "id": 3,
+            "name": "Pelu Pundir"
+        }
+    ],
+    "users": [
+        {
+            "id": "rahulpundir@globallogic.com",
+            "languageGroup": "Frontend"
+        },
+        {
+            "id": "kapilpundir@globallogic.com",
+            "languageGroup": "Backend"
+        }
+    ],
+    "languages": [
+        {
+            "id": "Frontend",
+            "language": ["JS", "ReactJS", "AngularJS"]
+        },
+        {
+            "id": "Backend",
+            "language": ["Java", "DOTNET", "ASP.NET"]
+        }
+    ],
+    "colors":[
+        {
+            "id": 1,
+            "colorName": "Red"
+        },
+        {
+            "id": 2,
+            "colorName": "Green"
+        },
+        {
+            "id": 3,
+            "colorName": "Blue"
+        },
+        {
+            "id": 4,
+            "colorName": "White"
+        },
+        {
+            "id": 5,
+            "colorName": "Yellow"
+        },
+        {
+            "id": 6,
+            "colorName": "Pink"
+        }
+    ]
+}

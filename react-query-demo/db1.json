@@ -1,0 +1,44 @@
+{
+  "colors": [
+    {
+      "id": 1,
+      "colorName": "Re2d"
+    },
+    {
+      "id": 2,
+      "colorName": "Green"
+    },
+    {
+      "id": 3,
+      "colorName": "Blue"
+    },
+    {
+      "id": 4,
+      "colorName": "White"
+    },
+    {
+      "id": 5,
+      "colorName": "Yellow"
+    },
+    {
+      "id": 6,
+      "colorName": "Pink"
+    },
+    {
+      "id": 7,
+      "colorName": "Orange"
+    },
+    {
+      "id": 7,
+      "colorName": "Blue"
+    },
+    {
+      "id": 7,
+      "colorName": "new color"
+    },
+    {
+      "id": 7,
+      "colorName": "NEELA"
+    }
+  ]
+}
